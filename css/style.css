@@ -1,10 +1,10 @@
+
 @font-face {
     font-family: 'Roboto-Regular';
     src: url(../fonts/Roboto-Regular.ttf) format('truetype');
 }
 
-html,
-body {
+html,body {
     background: #fff;
     font-size: 100%;
     font-family: 'Roboto-Regular';
@@ -23,14 +23,7 @@ ul {
     margin: 0;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-label,
-p {
+h1,h2,h3,h4,h5,h6,label,p {
     margin: 0;
 }
 
@@ -261,11 +254,7 @@ ul.nav_1 li.last {
     /*-- w3layouts --*/
 }
 
-.nav .open>a,
-.nav .open>a:hover,
-.nav .open>a:focus,
-.nav>li>a:hover,
-.nav>li>a:focus {
+.nav .open>a,.nav .open>a:hover,.nav .open>a:focus,.nav>li>a:hover,.nav>li>a:focus {
     background-color: #fff !important;
     border-color: #fff;
     color: #7e7e7e !important;
@@ -308,7 +297,7 @@ ul.nav-list.list-inline li {
     font-size: 4em;
     color: #fa03bb;
     margin: 0;
-    font-family: 'Poiret One', cursive;
+    font-family: cursive;
     font-weight: 700;
 }
 
@@ -347,7 +336,7 @@ ul.nav-list.list-inline li {
     color: #403b37;
     font-size: 1em;
     text-decoration: none;
-    font-family: 'Poiret One', cursive;
+    font-family: cursive;
     font-weight: 700;
 }
 
@@ -613,7 +602,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 }
 
 .col-md3 {
-    background: url(../images/11.jpg) no-repeat;
+    background: url(../images/bikini-village.jpg) no-repeat;
     min-height: 399px;
     background-size: cover;
     -webkit-background-size: cover;
