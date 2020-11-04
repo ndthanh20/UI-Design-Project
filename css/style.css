@@ -1,10 +1,10 @@
-
 @font-face {
     font-family: 'Roboto-Regular';
     src: url(../fonts/Roboto-Regular.ttf) format('truetype');
 }
 
-html,body {
+html,
+body {
     background: #fff;
     font-size: 100%;
     font-family: 'Roboto-Regular';
@@ -23,7 +23,14 @@ ul {
     margin: 0;
 }
 
-h1,h2,h3,h4,h5,h6,label,p {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+label,
+p {
     margin: 0;
 }
 
@@ -228,7 +235,7 @@ h1,h2,h3,h4,h5,h6,label,p {
 .mega-dropdown-menu {
     padding: 20px 15px 15px;
     text-align: center;
-    width: 53%;
+    width: 45%;
 }
 
 ul.nav_1 {
@@ -254,7 +261,11 @@ ul.nav_1 li.last {
     /*-- w3layouts --*/
 }
 
-.nav .open>a,.nav .open>a:hover,.nav .open>a:focus,.nav>li>a:hover,.nav>li>a:focus {
+.nav .open>a,
+.nav .open>a:hover,
+.nav .open>a:focus,
+.nav>li>a:hover,
+.nav>li>a:focus {
     background-color: #fff !important;
     border-color: #fff;
     color: #7e7e7e !important;
